@@ -9,3 +9,5 @@
   - di lihat dari kabupaten/kota bahwa di kabupaten Bogor memiliki jumlah fasilita kesehatan baling banyaak dibandingkan dengan kabupaten/kota yang lain dari jaminan kesehatan
   - dilihat dari data jumlah penduduk yaitu 35.427.117 Jiwa
   - jumlah jaminan kesehatan terbanyak yaitu Penerima Bantuan Iuran (PBI) yaitu sebesar 15.363.537 jiwa  dari jumlah penduduk 35.427.117 jiwa di lihat dari setiap Kabupaten/Kota jumlah terbanyak adalah Kabupaten Bogor dengan jumlah fasilitas kesehatan sebesar 3.517.032 jiwa
+
+## Tableau Public Web
