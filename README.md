@@ -14,3 +14,6 @@
 * menggunakan data dari hasil query bigquery-public-data.thelook_ecommerce dan menggambil kolom created_at, status, sale_price, num_of_item, gender, category, country
 
 ![fiktif dasboard](https://user-images.githubusercontent.com/122749604/214991829-d07006fe-6bef-4323-9eea-99af757e6166.png)
+
+* dasbord tersebus manggunakan [Tableau Public Web](https://public.tableau.com/app/profile/ahmad.firmanto/viz/fiktif_ecomerce/Dashboard1)
+* kesimpulan  
