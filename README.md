@@ -11,3 +11,4 @@
   - jumlah jaminan kesehatan terbanyak yaitu Penerima Bantuan Iuran (PBI) yaitu sebesar 15.363.537 jiwa  dari jumlah penduduk 35.427.117 jiwa di lihat dari setiap Kabupaten/Kota jumlah terbanyak adalah Kabupaten Bogor dengan jumlah fasilitas kesehatan sebesar 3.517.032 jiwa
 
 ## Tableau Public Web
+* menggunakan data dari hasil query bigquery-public-data.thelook_ecommerce dan menggambil kolom created_at, status, sale_price, num_of_item, gender, category, country
