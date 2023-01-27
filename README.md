@@ -17,3 +17,7 @@
 
 * dasbord tersebus manggunakan [Tableau Public Web](https://public.tableau.com/app/profile/ahmad.firmanto/viz/fiktif_ecomerce/Dashboard1)
 * kesimpulan  
+  - dari dasboard tersebut dapat di lihat bahwa transaksi dari setiap tahun meningkat 
+  - dari kategory dengan penjualan paling banyak adalah intimates tetapi hanya prempuan saja yang order kategori produk tersebut
+  - dari negara dengan order terbanyak adalah negara china
+  - dari status ternyata masih ada produk yang dikembalikan atau di retur
